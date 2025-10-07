@@ -48,3 +48,12 @@ All variants described in this project fall under open publication and are **no 
 - Additional: a GitHub repository and DOI (4TU/Zenodo) will follow.
 
 © 2025 Frederik Anthonie Reijm / fareijm
+---
+
+### 📦 Zenodo DOI
+
+Citeerbare archivering van deze repository is beschikbaar via Zenodo:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17278447.svg)](https://doi.org/10.5281/zenodo.17278447)
+
+DOI: [10.5281/zenodo.17278447](https://doi.org/10.5281/zenodo.17278447)
