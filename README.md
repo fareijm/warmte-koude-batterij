@@ -57,3 +57,7 @@ Citeerbare archivering van deze repository is beschikbaar via Zenodo:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17278447.svg)](https://doi.org/10.5281/zenodo.17278447)
 
 DOI: [10.5281/zenodo.17278447](https://doi.org/10.5281/zenodo.17278447)
+---
+
+**Keywords:**  
+thermal-energy-storage, heat-battery, cold-battery, vacuum-insulation, multilayer-insulation, open-hardware, DIY-engineering, renewable-energy, sustainable-housing, TU-Delft, phase-change-material, mechanical-iris, soapstone
